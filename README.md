@@ -24,7 +24,6 @@ Para iniciar o desenvolvimento em Java, segui os seguintes passos:
   - Compilação e execução de código Java diretamente no VS Code.
   - IntelliSense para melhor produtividade.
   - Depuração de código Java.
-```
 
 ## 📚 Referências
 - [Documentação Oficial do Java](https://docs.oracle.com/en/java/)
