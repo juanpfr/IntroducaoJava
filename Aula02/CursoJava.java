@@ -1,3 +1,4 @@
+// Especificar caminho do arquivo
 package Aula02;
 
 public class CursoJava {
