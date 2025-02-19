@@ -24,19 +24,6 @@ Para iniciar o desenvolvimento em Java, segui os seguintes passos:
   - Compilação e execução de código Java diretamente no VS Code.
   - IntelliSense para melhor produtividade.
   - Depuração de código Java.
-
-## 🚀 Primeiros Passos no Código
-
-Após configurar o ambiente, comecei a escrever meus primeiros códigos em Java. Veja alguns exemplos básicos no diretório `src/`.
-
-### 📌 Exemplo: "Hello, World!"
-```java
-public class AloMundo{
-    public static void main(String[] args){
-        // Para imprimir no console
-        System.out.print("Alo Mundo!");
-    }
-}
 ```
 
 ## 📚 Referências
