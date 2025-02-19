@@ -1,4 +1,4 @@
-# IntroducaoJava
+# Introdução Java
 
 Este repositório contém os primeiros passos no aprendizado de Java, incluindo a instalação do ambiente de desenvolvimento e os primeiros códigos escritos.
 
